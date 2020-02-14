@@ -1,0 +1,6 @@
+create table Cliente(Clave int primary key,Empresa varchar(50),Representante varchar(50),Direccion varchar(50),Telefono varchar(50),Ciudad varchar(50))
+INSERT INTO Cliente Values(100,'AKI','BRONCO','ENRIQUE SEGOVIANO','4731111111','Nuevos Aires')
+INSERT INTO Cliente Values(200,'AKI NO','AMLO','DISNEYLAND','4732222222','LOS ANGELES')
+INSERT INTO Cliente Values(300,'AKI SI','MID','SIXFLAGS','4733333333','CDMX')
+INSERT INTO Cliente Values(400,'AKI TAMPOCO','ANAYA','REINO AVENTURA','4734444444','PARIS')
+INSERT INTO Cliente Values(500,'PORQUE AKI','NINGUNO','PARQUE ACUATICO','4735555555','TOKYO')
